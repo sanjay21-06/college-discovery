@@ -20,7 +20,7 @@ College Discovery is a full-stack web application that helps students explore an
 ## Live Demo
 
 ```bash
-https://college-discovery-gold.vercel.app
+https://college-discovery-six.vercel.app
 ```
 
 ---
