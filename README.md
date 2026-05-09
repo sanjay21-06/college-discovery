@@ -44,9 +44,14 @@ https://college-discovery-six.vercel.app
 The Home Page allows users to explore and browse different Indian colleges with details like ratings, fees, placements, and location in a clean and responsive interface.
 
 
+
+
 ## Compare Colleges
 ![image alt](https://github.com/sanjay21-06/college-discovery/blob/03452a8515a9ed54abb02f9754f1d68f24419c16/Compare_page.png)
 The Compare feature helps users compare 2–3 colleges side-by-side based on fees, ratings, placements, and other important details for better decision-making.
+
+
+
 
 ## Saved Colleges
 ![image alt](https://github.com/sanjay21-06/college-discovery/blob/03452a8515a9ed54abb02f9754f1d68f24419c16/Saved_list.png)
